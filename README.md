@@ -22,7 +22,7 @@ Designed and verified a parameterized **Asynchronous FIFO** for reliable data tr
 
 ## Output Waveform
 
-![Output](waveforms/async_fifo_waveform.png)
+![Output](Waveforms/async_fifo_waveform.png)
 
 ### Data Flow
 
@@ -117,31 +117,31 @@ Verification/
 
 ### Reset Operation
 
-![Reset](waveforms/fifo_reset.png)
+![Reset](Waveforms/fifo_reset.png)
 
 ---
 
 ### Write Operation
 
-![Write](waveforms/fifo_write.png)
+![Write](Waveforms/fifo_write.png)
 
 ---
 
 ### Read Operation
 
-![Read](waveforms/fifo_read.png)
+![Read](Waveforms/fifo_read.png)
 
 ---
 
 ### Gray Pointer Synchronization
 
-![Gray Synchronization](waveforms/fifo_gray_sync.png)
+![Gray Synchronization](Waveforms/fifo_gray_sync.png)
 
 ---
 
 ### Full and Empty Flag Generation
 
-![Flags](waveforms/fifo_flags.png)
+![Flags](Waveforms/fifo_flags.png)
 
 ---
 
