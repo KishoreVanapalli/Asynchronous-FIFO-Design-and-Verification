@@ -259,7 +259,11 @@ Asynchronous FIFOs are fundamental building blocks used in:
 
 ## Documentation
 
+<<<<<<< HEAD
 📄 [Project Report](Documentation/{Asynchronous FIFO Design and Verification.pdf})
+=======
+📄 [Project Report](Documentation/Asynchronous_FIFO_Design_and_Verification.pdf)
+>>>>>>> d44681b1b2038fd5322b7de6bd909c7b5160b8e4
 
 ---
 
